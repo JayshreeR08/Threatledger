@@ -33,3 +33,7 @@ ThreatLedger V1.0 is engineered for localized standalone processing. Future rele
 1. **Live Cloud Ingestion:** Upgrading from manual file uploads to direct API webhooks from live AWS CloudTrail and Nginx servers.
 2. **Mitre ATT&CK Matrix Mapping:** Expanding the static analytics fallback to dynamically cross-reference threats with a live Mitre API framework.
 3. **Multi-User RBAC:** Introducing role-based access control and encrypted user logins using institutional database backends.
+
+
+AUTHOR
+Jayshree
