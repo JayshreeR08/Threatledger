@@ -2,7 +2,7 @@
 
 ThreatLedger is a high-performance, dark-mode Security Operations (SecOps) ingestion workstation designed to parse, normalize, and visualize fragmented network telemetry logs. Built using a localized rule engine and an optimized front-end pipeline, the platform transforms raw server arrays into structured, real-time cryptographic audit trails.
 
-🚀 **[Click Here to Explore the Live Interactive Workstation Dashboard](([https://threatledger-081oo1jayshreee115rgs.streamlit.app/]))**
+### 🚀 [Click Here to Open the Live Interactive Dashboard](https://threatledger-081oo1jayshreee115rgs.streamlit.app/)
 
 ---
 
@@ -18,11 +18,13 @@ ThreatLedger is a high-performance, dark-mode Security Operations (SecOps) inges
 
 ## 🛠️ Technology & Matrix Stack
 
-* **Frontend Framework:** Streamlit (Custom Material-Dark CSS Injection)
-* **Data Processing & Pipelines:** Pandas Matrix DataFrames, Regular Expressions (`re`)
-* **Visualization Layer:** Plotly Express & Plotly Graph Objects (Dynamic Telemetry Line Gauges)
-* **Storage Layer:** SQLite3 (Relational Database Storage Engine)
-* **Data Verification:** Python Hashlib (Secure SHA-256 Arrays)
+| Component | Technology | Description |
+| :--- | :--- | :--- |
+| **Frontend Framework** | Streamlit | Custom Material-Dark CSS Injection |
+| **Data Processing** | Pandas & `re` | Matrix DataFrames, Regular Expressions |
+| **Visualization** | Plotly | Graph Objects & Dynamic Telemetry Line Gauges |
+| **Storage Layer** | SQLite3 | Localized Relational Database Storage Engine |
+| **Data Verification** | Python Hashlib | Secure SHA-256 Arrays |
 
 ---
 
@@ -34,6 +36,7 @@ ThreatLedger V1.0 is engineered for localized standalone processing. Future rele
 2. **Mitre ATT&CK Matrix Mapping:** Expanding the static analytics fallback to dynamically cross-reference threats with a live Mitre API framework.
 3. **Multi-User RBAC:** Introducing role-based access control and encrypted user logins using institutional database backends.
 
-##Author
+---
 
-jayshre
+## 👤 Author
+* **jayshree** - *Core Architecture & Development*
